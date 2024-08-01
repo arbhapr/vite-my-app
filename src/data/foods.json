@@ -1,0 +1,177 @@
+[
+    {
+        "name": "Nasi Goreng",
+        "description": "Nasi yang digoreng dengan bumbu rempah khas Indonesia",
+        "price": 25000,
+        "photo": "https://picsum.photos/200?id=1",
+        "stock": true
+    },
+    {
+        "name": "Mie Goreng",
+        "description": "Mie yang digoreng dengan bumbu khas Indonesia",
+        "price": 20000,
+        "photo": "https://picsum.photos/200?id=2",
+        "stock": false
+    },
+    {
+        "name": "Sate Ayam",
+        "description": "Sate ayam dengan bumbu kacang",
+        "price": 30000,
+        "photo": "https://picsum.photos/200?id=3",
+        "stock": true
+    },
+    {
+        "name": "Gado-Gado",
+        "description": "Salad sayuran dengan saus kacang",
+        "price": 15000,
+        "photo": "https://picsum.photos/200?id=4",
+        "stock": false
+    },
+    {
+        "name": "Bakso",
+        "description": "Bakso sapi dengan kuah kaldu",
+        "price": 20000,
+        "photo": "https://picsum.photos/200?id=5",
+        "stock": true
+    },
+    {
+        "name": "Soto Ayam",
+        "description": "Soto ayam dengan kuah kuning",
+        "price": 25000,
+        "photo": "https://picsum.photos/200?id=6",
+        "stock": true
+    },
+    {
+        "name": "Nasi Padang",
+        "description": "Nasi dengan berbagai lauk khas Padang",
+        "price": 30000,
+        "photo": "https://picsum.photos/200?id=7",
+        "stock": false
+    },
+    {
+        "name": "Rendang",
+        "description": "Daging sapi yang dimasak dengan bumbu rendang",
+        "price": 40000,
+        "photo": "https://picsum.photos/200?id=8",
+        "stock": true
+    },
+    {
+        "name": "Ayam Goreng",
+        "description": "Ayam yang digoreng dengan tepung renyah",
+        "price": 25000,
+        "photo": "https://picsum.photos/200?id=9",
+        "stock": false
+    },
+    {
+        "name": "Nasi Uduk",
+        "description": "Nasi yang dimasak dengan santan",
+        "price": 15000,
+        "photo": "https://picsum.photos/200?id=10",
+        "stock": true
+    },
+    {
+        "name": "Pecel Lele",
+        "description": "Lele goreng dengan sambal pecel",
+        "price": 20000,
+        "photo": "https://picsum.photos/200?id=11",
+        "stock": false
+    },
+    {
+        "name": "Tahu Tempe",
+        "description": "Tahu dan tempe goreng dengan sambal",
+        "price": 10000,
+        "photo": "https://picsum.photos/200?id=12",
+        "stock": true
+    },
+    {
+        "name": "Gulai Kambing",
+        "description": "Gulai kambing dengan kuah santan",
+        "price": 35000,
+        "photo": "https://picsum.photos/200?id=13",
+        "stock": true
+    },
+    {
+        "name": "Es Cendol",
+        "description": "Minuman segar dengan cendol dan santan",
+        "price": 8000,
+        "photo": "https://picsum.photos/200?id=14",
+        "stock": false
+    },
+    {
+        "name": "Es Teh Manis",
+        "description": "Teh manis dingin",
+        "price": 5000,
+        "photo": "https://picsum.photos/200?id=15",
+        "stock": true
+    },
+    {
+        "name": "Sop Buntut",
+        "description": "Sup buntut sapi dengan kuah bening",
+        "price": 40000,
+        "photo": "https://picsum.photos/200?id=16",
+        "stock": false
+    },
+    {
+        "name": "Bubur Ayam",
+        "description": "Bubur ayam dengan topping ayam suwir",
+        "price": 15000,
+        "photo": "https://picsum.photos/200?id=17",
+        "stock": true
+    },
+    {
+        "name": "Ketoprak",
+        "description": "Tahu, bihun, dan sayuran dengan saus kacang",
+        "price": 15000,
+        "photo": "https://picsum.photos/200?id=18",
+        "stock": false
+    },
+    {
+        "name": "Pempek",
+        "description": "Pempek ikan dengan kuah cuko",
+        "price": 20000,
+        "photo": "https://picsum.photos/200?id=19",
+        "stock": true
+    },
+    {
+        "name": "Siomay",
+        "description": "Siomay ikan dengan bumbu kacang",
+        "price": 15000,
+        "photo": "https://picsum.photos/200?id=20",
+        "stock": false
+    },
+    {
+        "name": "Martabak Manis",
+        "description": "Martabak dengan topping manis",
+        "price": 25000,
+        "photo": "https://picsum.photos/200?id=21",
+        "stock": true
+    },
+    {
+        "name": "Martabak Telur",
+        "description": "Martabak dengan isi telur dan daging",
+        "price": 30000,
+        "photo": "https://picsum.photos/200?id=22",
+        "stock": true
+    },
+    {
+        "name": "Nasi Kuning",
+        "description": "Nasi dengan warna kuning dari kunyit",
+        "price": 20000,
+        "photo": "https://picsum.photos/200?id=23",
+        "stock": false
+    },
+    {
+        "name": "Nasi Liwet",
+        "description": "Nasi yang dimasak dengan santan dan rempah",
+        "price": 25000,
+        "photo": "https://picsum.photos/200?id=24",
+        "stock": true
+    },
+    {
+        "name": "Soto Betawi",
+        "description": "Soto dengan kuah santan khas Betawi",
+        "price": 30000,
+        "photo": "https://picsum.photos/200?id=25",
+        "stock": false
+    }
+]
